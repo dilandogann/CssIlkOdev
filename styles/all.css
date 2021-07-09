@@ -1,0 +1,25 @@
+.link{
+    margin-left:10px;
+    font-weight: 600;
+    color:#703da0;
+}
+.title{
+    color:#e83e8c
+}
+.main-container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.links-container{
+    color:#703da0;
+}
+.nav-titles{
+    color:#4685d8;
+}
+.products-title{
+     color:#d4d231;
+}
+.list{
+    list-style-position: inside
+}
